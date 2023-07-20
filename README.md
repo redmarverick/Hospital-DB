@@ -7,8 +7,8 @@
 
 # 📗 Table of Contents
 
-- [� Table of Contents](#-table-of-contents)
-- [📖 Hospital DB ](#-animals-db-)
+- [📗 Table of Contents](#-table-of-contents)
+- [📖 Hospital DB ](#-hospital-db-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -92,6 +92,11 @@ To run the project, execute the commands inside the .sql folders, on the followi
 - Twitter: [@Nylbert Victor](https://twitter.com/MarverickRed)
 - LinkedIn: [Nylbert Victor](https://www.linkedin.com/in/nylbert-victor-397951120/)
 
+👤 **Martín Ezequiel González**
+
+- GitHub: [@Mar12358](https://github.com/Mar12358)
+- Twitter: [@MarezegonZ](https://twitter.com/MarezegonZ)
+- LinkedIn: [Martin Ezequiel Gonzalez](https://www.linkedin.com/in/martin-ezequiel-gonzalez-30a413260/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -125,7 +130,7 @@ Thanks for checking out our DB! Please feel free to reach out with any questions
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-would like to thanks Microverse corporation for the README template.<p align="right">(<a href="#readme-top">back to top</a>)</p>
+We would like to thanks Microverse corporation for the README template.<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FAQ (optional) -->
 
