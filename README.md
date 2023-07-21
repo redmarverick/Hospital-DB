@@ -70,16 +70,12 @@ Clone this repository to your desired folder and install required dependencies:
 ```sh
   cd my-folder
   git clone github.com/redmarverick/Hospital-DB.git
-  npm install
 
 ```
 
 ### Usage
 
-To run the project, execute the commands inside the .sql folders, on the following order:
-- schema
-- data
-- queries (in case you want to see the result)
+To run the project, execute the commands inside the schema_based_on_diagram.sql file on your prefered DB console.
 
 
 <!-- AUTHORS -->
